@@ -4,7 +4,7 @@ library(shiny)
 shinyUI(fluidPage(
   
   # Application title
-  titlePanel("Sample Shiny App"),
+  titlePanel("Volcano Shiny App"),
   
   # Sidebar layout with input and output definitions
   sidebarLayout(
